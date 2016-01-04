@@ -1,4 +1,4 @@
-= hawkular-nest
+= This git repository is obsolete
 :source-language: java
 
-A container that can deploy Hawkular components and provides the Hawkular messaging framework to those components.
+The sources from this git repository were moved to commons https://github.com/hawkular/hawkular-commons/tree/2acedc8832053cc0bcc145c3424478b415b9c95d/hawkular-nest .
